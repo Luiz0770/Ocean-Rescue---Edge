@@ -1,5 +1,7 @@
 # Projeto: Monitoramento de Temperatura dos Oceanos da Ocean Rescue
 
+ **Link do projeto em funcionamento:**[Link do projeto](https://wokwi.com/projects/399913420681902081)
+
 Este projeto utiliza um sensor de temperatura DS18B20 para monitorar a temperatura da água dos oceanos, fornecendo alertas visuais (LEDs) e sonoros (buzzer) para alertar a irregularidade da temperatura. Além disso, foi utilizado um display LCD para visualizar melhor os dados capturados e o estado do sistema.
 
 ## Sumário
